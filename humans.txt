@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# CROMAC DEVS TEAM
+
+    <Emmanuel Chierchie> -- <Web & Mobile Developer> -- <GitHub/Linked In/Behance: emmchier>
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css, Bootstrap, Animate.css, Magnific Popup, Icomoon, Fonawsome, 
